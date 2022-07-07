@@ -26,6 +26,8 @@ Follow this pattern for organization of developed components.
 ```
 
 ### Markup UI FIGMA
+![Screenshot 2022-07-07 at 16 56 19](https://user-images.githubusercontent.com/10829855/177791584-208ead6b-e2e8-4d71-9352-e1c06faf0515.png)
+
 [UI FIGMA](https://www.figma.com/file/eOxkzCb8W1LjTScMFgl7ga/Cottages?node-id=29%3A2).
 # Markup
 
