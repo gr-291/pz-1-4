@@ -26,7 +26,7 @@ Follow this pattern for organization of developed components.
 ```
 
 ### Markup UI FIGMA
-[UI FIGMA](https://caniuse.com/?search=calc).
+[UI FIGMA](https://www.figma.com/file/eOxkzCb8W1LjTScMFgl7ga/Cottages?node-id=29%3A2).
 # Markup
 
 Scripts should be placed before closing body tag.
