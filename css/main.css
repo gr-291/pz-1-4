@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    width: 348px;
+    background-color: grey;
+    
+}
+.border{
+    background-color: rgba(54, 51, 51, 0.355);
+    display: flex;
+    padding: 20px
+}
+.wod{
+    margin-left: 20px;
+}
+.foot{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(194, 255, 70, 0.7);
+    width: 100%;
+}
+.ig {
+    display: flex;
+    margin: 10px;
+}
+.item {
+    position: relative;
+    margin-bottom: 10px;
+}
+.down{
+    background-color: black;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.op{
+       margin-left: 10px;
+}
+.op1{
+    margin-right: 10px;
+}
