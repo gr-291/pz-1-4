@@ -1,0 +1,158 @@
+.body{
+    margin: 50px;
+    background-color: rgb(219, 204, 107);
+}
+.main{
+    width: 360px;
+    height: 1521.52px;
+  
+    
+    background-color: #303030;
+}
+.headerMain{
+    position:absolute;
+padding-top: 40px;
+width: 360px;
+height: 80px;
+background: #141414;
+box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.24);
+}
+.fotter{
+    width: 360px;
+height: 48px;
+left: 0px;
+top: 1552px;
+
+background: #000000;
+}
+.texty{
+ width: 145px;
+height: 24px;
+left: 72.02px;
+top: 40px;
+margin-left:72px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.path{
+    position: absolute;
+width: 18px;
+height: 2px;
+left: 19px;
+top: 46px;
+
+background: #EEEEEE;
+}
+.path2{
+    position: absolute;
+width: 18px;
+height: 2px;
+left: 19px;
+top: 51px;
+
+background: #EEEEEE;
+}
+.path3{
+    position: absolute;
+width: 18px;
+height: 3px;
+left: 19px;
+top: 56 px;
+
+background: #EEEEEE;
+}
+.imgicon1{
+ width: 30px;
+ margin-left: 40px;
+ margin-top: 10px;
+}
+.imgicon2{
+    width: 30px;
+    margin-left: 80px;
+    margin-top: 10px;
+   }
+   .imgicon3{
+    width: 30px;
+    margin-left: 80px;
+    margin-top: 10px;
+   }
+   .div1{
+    position: absolute;
+width: 344px;
+height: 260px;
+left: 57px;
+top: 190px;
+background-image: url("image/image 5.png");
+   }
+   .green{
+    position: absolute;
+width: 344px;
+height: 68px;
+bottom: 0px;
+
+background: rgba(57, 120, 78, 0.6);
+   }
+   .textgreen{
+    position: absolute;
+width: 250px;
+height: 44px;
+left: 8px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+
+
+color: #FFFFFF;
+   }
+   .shape{
+    position: absolute;
+width: 18px;
+height: 16px;
+left: 290px;
+top: 20px;
+mix-blend-mode: normal;
+   }
+   .div2{
+    position: absolute;
+width: 344px;
+height: 260px;
+left: 57px;
+top: 460px;
+background-image: url("image/image 6.png");
+   }
+   .div3{
+    position: absolute;
+width: 344px;
+height: 260px;
+left: 57px;
+top: 730px;
+background-image: url("image/image 8.png");
+   }
+   .div4{
+    position: absolute;
+width: 344px;
+height: 260px;
+left: 57px;
+top: 1000px;
+background-image: url("image/image 9.png");
+   }
+   .div5{
+    position: absolute;
+width: 344px;
+height: 260px;
+left: 57px;
+top: 1270px;
+background-image: url("image/image 10.png");
+   }
